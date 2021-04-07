@@ -1,0 +1,6 @@
+certifi==2020.12.5
+chardet==4.0.0
+-e git+https://github.com/avanditc/django-iran.git@9e93ee7b85feaaf4a352dfa5d843b7458b324d89#egg=django_iran
+idna==2.10
+requests==2.25.1
+urllib3==1.26.4
